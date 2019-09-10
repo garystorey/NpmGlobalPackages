@@ -1,0 +1,26 @@
+{
+  "name": "global",
+  "version": "1.0.0",
+  "description": "A repo to hold all of the npm utilities that would normally be installed globally.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garystorey/NpmGlobalPackages.git"
+  },
+  "keywords": [
+    "npm",
+    "global"
+  ],
+  "author": "Gary Storey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/garystorey/NpmGlobalPackages/issues"
+  },
+  "homepage": "https://github.com/garystorey/NpmGlobalPackages#readme",
+  "dependencies": {
+    "create-react-app": "^3.1.1",
+    "eslint": "^6.3.0",
+    "gatsby-cli": "^2.7.47",
+    "prettier": "^1.18.2"
+  }
+}
