@@ -18,11 +18,11 @@
   },
   "homepage": "https://github.com/garystorey/NpmGlobalPackages#readme",
   "dependencies": {
-    "create-react-app": "^3.3.0",
+    "create-react-app": "^3.4.1",
     "eslint": "^6.8.0",
-    "gatsby-cli": "^2.8.27",
-    "prettier": "^1.19.1",
+    "gatsby-cli": "^2.12.9",
+    "prettier": "^2.0.5",
     "serve": "^11.3.0",
-    "source-map-explorer": "^2.2.2"
+    "source-map-explorer": "^2.4.2"
   }
 }
