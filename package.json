@@ -20,9 +20,9 @@
   "dependencies": {
     "create-react-app": "^3.4.1",
     "eslint": "^6.8.0",
-    "gatsby-cli": "^2.12.9",
+    "gatsby-cli": "^2.12.46",
     "prettier": "^2.0.5",
-    "serve": "^11.3.0",
+    "serve": "^11.3.2",
     "source-map-explorer": "^2.4.2"
   }
 }
